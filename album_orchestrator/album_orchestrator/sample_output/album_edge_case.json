@@ -1,0 +1,134 @@
+{
+  "user_prompt": "Quiet Rebellion",
+  "album_title": "Circuit Bloom",
+  "concept_statement": "An album about a city drowning in quiet rebellion, told through the eyes of someone who keeps looking for warmth in cold, artificial light. Each track moves the listener one step closer to deciding whether connection is still possible.",
+  "overall_mood": "Quiet Rebellion",
+  "genre": "synth-pop / dark wave",
+  "tracks": [
+    {
+      "index": 1,
+      "title": "Neon Rain",
+      "brief": "Arriving in a city that never remembers your name.",
+      "tempo": "mid",
+      "mood": "wistful",
+      "lyrics": "[Verse 1]\nStreetlights blink in a language I don't know\nEvery window's a screen with nowhere left to go\nI keep walking through the same electric rain\nLooking for a signal that still knows my name\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone\n\n[Verse 2]\nChrome and ash are falling where the old house stood\nThey said it's progress, said it's all for good\nI saved a photograph before the walls came down\nThe only proof that I was ever in this town\n\n[Bridge]\nMaybe the wreckage is where the flowers grow\nMaybe the static is the only truth I know\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone",
+      "status": "max_revisions_hit",
+      "revision_count": 1,
+      "feedback_history": [
+        {
+          "approved": false,
+          "syllable_notes": "Line 3 of verse 1 runs noticeably longer (14 syllables) than its neighbors (~9-10), breaking the scan.",
+          "rhyme_notes": "Verse 2 drifts from the AABB pattern established in verse 1 -- the third line doesn't rhyme with the fourth.",
+          "flow_notes": "The bridge is a touch too long for the requested tempo and slows momentum right before the final chorus.",
+          "revision_instructions": "Trim verse 1 line 3 to roughly 9-10 syllables to match its neighbors. Fix the verse 2 rhyme so lines 3-4 rhyme, matching the AABB pattern from verse 1. Shorten the bridge by one line to keep momentum into the final chorus."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "Static Heartbeat",
+      "brief": "Falling for someone through a screen, unsure if it's real.",
+      "tempo": "uptempo",
+      "mood": "anxious",
+      "lyrics": "[Verse 1]\nStreetlights blink in a language I don't know\nEvery window's a screen with nowhere left to go\nI keep walking through the same electric rain\nLooking for a signal that still knows my name\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone\n\n[Verse 2]\nChrome and ash are falling where the old house stood\nThey said it's progress, said it's all for good\nI saved a photograph before the walls came down\nThe only proof that I was ever in this town\n\n[Bridge]\nMaybe the wreckage is where the flowers grow\nMaybe the static is the only truth I know\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone",
+      "status": "max_revisions_hit",
+      "revision_count": 1,
+      "feedback_history": [
+        {
+          "approved": false,
+          "syllable_notes": "Line 3 of verse 1 runs noticeably longer (14 syllables) than its neighbors (~9-10), breaking the scan.",
+          "rhyme_notes": "Verse 2 drifts from the AABB pattern established in verse 1 -- the third line doesn't rhyme with the fourth.",
+          "flow_notes": "The bridge is a touch too long for the requested tempo and slows momentum right before the final chorus.",
+          "revision_instructions": "Trim verse 1 line 3 to roughly 9-10 syllables to match its neighbors. Fix the verse 2 rhyme so lines 3-4 rhyme, matching the AABB pattern from verse 1. Shorten the bridge by one line to keep momentum into the final chorus."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Chrome and Ash",
+      "brief": "Watching an old neighborhood get demolished for progress.",
+      "tempo": "slow",
+      "mood": "grieving",
+      "lyrics": "[Verse 1]\nStreetlights blink in a language I don't know\nEvery window's a screen with nowhere left to go\nI keep walking through the same electric rain\nLooking for a signal that still knows my name\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone\n\n[Verse 2]\nChrome and ash are falling where the old house stood\nThey said it's progress, said it's all for good\nI saved a photograph before the walls came down\nThe only proof that I was ever in this town\n\n[Bridge]\nMaybe the wreckage is where the flowers grow\nMaybe the static is the only truth I know\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone",
+      "status": "max_revisions_hit",
+      "revision_count": 1,
+      "feedback_history": [
+        {
+          "approved": false,
+          "syllable_notes": "Line 3 of verse 1 runs noticeably longer (14 syllables) than its neighbors (~9-10), breaking the scan.",
+          "rhyme_notes": "Verse 2 drifts from the AABB pattern established in verse 1 -- the third line doesn't rhyme with the fourth.",
+          "flow_notes": "The bridge is a touch too long for the requested tempo and slows momentum right before the final chorus.",
+          "revision_instructions": "Trim verse 1 line 3 to roughly 9-10 syllables to match its neighbors. Fix the verse 2 rhyme so lines 3-4 rhyme, matching the AABB pattern from verse 1. Shorten the bridge by one line to keep momentum into the final chorus."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Ghost Signal",
+      "brief": "A late-night radio broadcast to no one, hoping someone hears it.",
+      "tempo": "slow",
+      "mood": "lonely",
+      "lyrics": "[Verse 1]\nStreetlights blink in a language I don't know\nEvery window's a screen with nowhere left to go\nI keep walking through the same electric rain\nLooking for a signal that still knows my name\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone\n\n[Verse 2]\nChrome and ash are falling where the old house stood\nThey said it's progress, said it's all for good\nI saved a photograph before the walls came down\nThe only proof that I was ever in this town\n\n[Bridge]\nMaybe the wreckage is where the flowers grow\nMaybe the static is the only truth I know\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone",
+      "status": "max_revisions_hit",
+      "revision_count": 1,
+      "feedback_history": [
+        {
+          "approved": false,
+          "syllable_notes": "Line 3 of verse 1 runs noticeably longer (14 syllables) than its neighbors (~9-10), breaking the scan.",
+          "rhyme_notes": "Verse 2 drifts from the AABB pattern established in verse 1 -- the third line doesn't rhyme with the fourth.",
+          "flow_notes": "The bridge is a touch too long for the requested tempo and slows momentum right before the final chorus.",
+          "revision_instructions": "Trim verse 1 line 3 to roughly 9-10 syllables to match its neighbors. Fix the verse 2 rhyme so lines 3-4 rhyme, matching the AABB pattern from verse 1. Shorten the bridge by one line to keep momentum into the final chorus."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Circuit Bloom",
+      "brief": "Finding something like hope in a broken machine.",
+      "tempo": "mid",
+      "mood": "fragile hope",
+      "lyrics": "[Verse 1]\nStreetlights blink in a language I don't know\nEvery window's a screen with nowhere left to go\nI keep walking through the same electric rain\nLooking for a signal that still knows my name\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone\n\n[Verse 2]\nChrome and ash are falling where the old house stood\nThey said it's progress, said it's all for good\nI saved a photograph before the walls came down\nThe only proof that I was ever in this town\n\n[Bridge]\nMaybe the wreckage is where the flowers grow\nMaybe the static is the only truth I know\n\n[Chorus]\nHold on, hold on, the static's calling loud\nHold on, hold on, I'm just a shape in the crowd\nBut somewhere in the wires there's a light still on\nHold on, hold on, until the night is gone",
+      "status": "max_revisions_hit",
+      "revision_count": 1,
+      "feedback_history": [
+        {
+          "approved": false,
+          "syllable_notes": "Line 3 of verse 1 runs noticeably longer (14 syllables) than its neighbors (~9-10), breaking the scan.",
+          "rhyme_notes": "Verse 2 drifts from the AABB pattern established in verse 1 -- the third line doesn't rhyme with the fourth.",
+          "flow_notes": "The bridge is a touch too long for the requested tempo and slows momentum right before the final chorus.",
+          "revision_instructions": "Trim verse 1 line 3 to roughly 9-10 syllables to match its neighbors. Fix the verse 2 rhyme so lines 3-4 rhyme, matching the AABB pattern from verse 1. Shorten the bridge by one line to keep momentum into the final chorus."
+        }
+      ]
+    }
+  ],
+  "cover_art_prompt": "Album cover, wide shot of a rain-slicked city street at night, neon signage reflected in puddles, a single silhouette walking away from camera, cyan-and-magenta color palette, soft volumetric fog, synthwave illustration style, painterly digital art, high contrast, 1:1 square composition",
+  "track_visual_prompts": [
+    "Neon-lit alley reflected in a puddle, cyan and magenta glow, lonely figure in the distance",
+    "Close-up of a hand touching a glowing phone screen in the dark, warm light against cold blue shadows",
+    "Demolition site at dusk, dust catching amber light, a lone photograph on the ground",
+    "Old radio tower against a starless sky, a single window lit in an empty apartment block",
+    "A cracked circuit board with a small flower growing through it, soft golden light"
+  ],
+  "event_log": [
+    "[Creative Director] Drafting album concept from user prompt...",
+    "[Creative Director] Concept: 'Circuit Bloom' (synth-pop / dark wave) -- 5 tracks planned.",
+    "[Lyricist] Writing first draft for track 1: 'Neon Rain'",
+    "[Meter Critic] Reviewing track 1: 'Neon Rain' (pass 1)",
+    "[Meter Critic] REJECTED again -- max revisions (1) reached for 'Neon Rain', escalating as-is.",
+    "[Lyricist] Writing first draft for track 2: 'Static Heartbeat'",
+    "[Meter Critic] Reviewing track 2: 'Static Heartbeat' (pass 1)",
+    "[Meter Critic] REJECTED again -- max revisions (1) reached for 'Static Heartbeat', escalating as-is.",
+    "[Lyricist] Writing first draft for track 3: 'Chrome and Ash'",
+    "[Meter Critic] Reviewing track 3: 'Chrome and Ash' (pass 1)",
+    "[Meter Critic] REJECTED again -- max revisions (1) reached for 'Chrome and Ash', escalating as-is.",
+    "[Lyricist] Writing first draft for track 4: 'Ghost Signal'",
+    "[Meter Critic] Reviewing track 4: 'Ghost Signal' (pass 1)",
+    "[Meter Critic] REJECTED again -- max revisions (1) reached for 'Ghost Signal', escalating as-is.",
+    "[Lyricist] Writing first draft for track 5: 'Circuit Bloom'",
+    "[Meter Critic] Reviewing track 5: 'Circuit Bloom' (pass 1)",
+    "[Meter Critic] REJECTED again -- max revisions (1) reached for 'Circuit Bloom', escalating as-is.",
+    "[Visual Stylist] Generating album cover and per-track visual prompts...",
+    "[Visual Stylist] Done.",
+    "[Orchestrator] All tracks resolved and visuals generated. Album complete."
+  ]
+}
